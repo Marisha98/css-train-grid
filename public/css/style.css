@@ -168,3 +168,125 @@ p {
 .task50 .item3 {
   grid-column: 1/3;
 }
+
+.task1 {
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.task2 {
+  display: grid;
+  justify-content: start;
+}
+
+.task3 {
+  gap: 25px 10px;
+}
+
+.task4 {
+}
+
+.task5 {
+  grid-template-columns: 70px 70px;
+}
+
+.task6 {
+  justify-content: end;
+}
+
+.task7 {
+  justify-content: center;
+}
+
+.task8 {
+  justify-content: space-between;
+}
+
+.task9 {
+  justify-content: space-around;
+}
+
+.task10 {
+  justify-content: space-evenly;
+}
+
+.task11 {
+  grid-template-rows: 1fr;
+}
+
+.task12 {
+  align-content: flex-start;
+}
+
+.task13 {
+  align-content: flex-end;
+}
+
+.task14 {
+  align-content: center;
+}
+
+.task15 {
+  align-items: stretch;
+}
+
+.task16 {
+  align-content: space-between;
+}
+
+.task17 {
+  align-content: space-around;
+}
+
+.task18 {
+  align-content: space-evenly;
+}
+
+.task19 {
+  align-content: center;
+  justify-content: flex-start;
+}
+
+.task20 {
+  justify-items: start;
+}
+
+.task21 {
+  justify-items: end;
+}
+
+.task22 {
+  justify-items: center;
+}
+
+.task23 {
+}
+
+.task24 {
+}
+
+.task25 {
+}
+
+.task26 {
+}
+
+.task27 {
+}
+
+.task28 {
+}
+
+.task29 {
+}
+
+.task30 .item1 {
+  width: min-content;
+}
+
+.task31 .item2 {
+  /* justify-content: flex-end; */
+}
+
+.task34 .item1 {
+}
